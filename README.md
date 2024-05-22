@@ -1,6 +1,6 @@
 # Welcome
 
-Hey, I'm Jorge!
+Hey, I'm Jorge Suarez!
 
 I am a senior computer engineering student at Cal Poly Pomona, passionate about learning and using new technology to create cool stuff. I am currently really into working on both embedded systems as well as web and cloud development. Here you can find some of my school projects, including my Senior Design Project, among other things I set myself to create. Enjoy!
 
