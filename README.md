@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">I am a recent graduate with a degree in computer engineering from Cal Poly Pomona, passionate about learning and using new technology to create cool stuff. I am currently really into working on both embedded systems as well as web and cloud development. Here you can find some of my school projects, including my Senior Design Project, among other things I set myself to create. Enjoy!</h3>
 
-# [Background](https://github.com/PJalv/PJalv/blob/main/Background.md)
-Learn more about me 
+## Senior Design Project: [IoT Device Control System](https://github.com/PJalv/PJalv/blob/main/Background.md)
+## [Background](https://github.com/PJalv/PJalv/blob/main/Background.md)
+
+## [Portfolio Website](pjalv.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjalv&label=Profile%20views&color=0e75b6&style=flat" alt="pjalv" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjalv&label=Profile%20views&color=0e75b6&style=flat" alt="pjalv" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/pjalv" target="blank"><img src="https://img.shields.io/twitter/follow/pjalv?logo=twitter&style=for-the-badge" alt="pjalv" /></a> </p>
 
