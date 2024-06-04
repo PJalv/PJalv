@@ -1,20 +1,24 @@
-# Welcome
+<h1 align="center">Hi 👋, I'm Jorge Luis Suarez</h1>
+<h3 align="center">I am a recent graduate with a degree in computer engineering from Cal Poly Pomona, passionate about learning and using new technology to create cool stuff. I am currently really into working on both embedded systems as well as web and cloud development. Here you can find some of my school projects, including my Senior Design Project, among other things I set myself to create. Enjoy!</h3>
 
-Hey, I'm Jorge Suarez!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjalv&label=Profile%20views&color=0e75b6&style=flat" alt="pjalv" /> </p>
 
-I am a senior computer engineering student at Cal Poly Pomona, passionate about learning and using new technology to create cool stuff. I am currently really into working on both embedded systems as well as web and cloud development. Here you can find some of my school projects, including my Senior Design Project, among other things I set myself to create. Enjoy!
+<p align="left"> <a href="https://twitter.com/pjalv" target="blank"><img src="https://img.shields.io/twitter/follow/pjalv?logo=twitter&style=for-the-badge" alt="pjalv" /></a> </p>
 
-## Background
+- 📄 Know about my experiences [pjalv.com/resume](https://pjalv.com/resume)
 
-### Early Years (2000s - 2010s)
-I have always been around technology, computers more specifically. My first memories with a computer were on my dad's Dell laptop running Windows Vista, maybe when I was 7 or 8 years old. At first, it was to play games on it, but if I ever wanted to do anything else, I would end up triggering the Administrator warning to enter my dad's password. I remember thinking, "I can't wait to get my computer so I can do anything I want to."
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pjalv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pjalv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pjalv.com/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pjalv.com/linkedin" height="30" width="40" /></a>
+</p>
 
-### Growing Passion (2010s - 2012)
-From there, my interest in technology grew, accompanied by consoles like PlayStations and Nintendo portables. Slowly but steadily, my passion grew for computers and consumer electronics. If I ever ran into issues while using them, I quickly made myself acquainted with Google search and searching through user forums to find solutions. Soon enough, I became the family's IT guy, and to this day, I get requests from friends and family regarding new purchases or help with their devices.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Middle School (2012 - 2015)
-Once I entered middle school, I became part of the STEM programs. I would have one class every year where we would work on a plethora of involved hands-on projects. I felt at home, being able to collaborate with group members about decisions, etc. Through my years in middle school, I started to realize a potential path for my future could be engineering. This was also the start of the tinkerer in me. Getting access to tablets like the Kindle Fire and iPods/iPads introduced me to the hacking and modding communities. I proceeded to perform jailbreaks (🍍) and root-ing of my devices, knowing very well that it would void my warranty. At this school level, everyone was playing mobile games. Minecraft Pocket Edition, Injustice, and other mobile games were just some of the many I tried to break or hack to give myself an advantage. A vital class I took here was one where we learned to use Scratch, a block-based visual programming language. It was my introduction to the world of coding.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJalv&exclude_repo=dotfiles&theme=gruvbox&show_icons=true&layout=compact" alt="pjalv" /></p>
 
-### High School (2015 - 2019)
-Entering high school in 2016, my enthusiasm remained, and apart from doing engineering classes, learning about Engineering processes, I began to dabble in making custom solutions for my peculiar gaming needs. My first tool was a sniping bot for the FIFA 16 web app. It was basically a way to buy certain items at a rarer lower cost, and I set myself to create a way to automate the process. I used AutoIt, and learned how to simulate key presses and mouse clicks with coordinates. I remember the thrill of waking up for school and checking my laptop that I kept running overnight to see that I had successfully sniped a card!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjalv&show_icons=true&locale=en&theme=gruvbox&show_icons=true&layout=compact" alt="pjalv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjalv&theme=gruvbox" alt="pjalv" /></p>
 
