@@ -1,5 +1,3 @@
-<h1 align="center"><img style="border-radius: 50%;"src="https://media.licdn.com/dms/image/D4E03AQFaHGzaKImG2Q/profile-displayphoto-shrink_200_200/0/1663912839285?e=2147483647&v=beta&t=8UaJlQkIIsikNMqBAr_ie_wEMlCzNI3ogrzpoOdXJek" alt="profile_picture" height="196" />
-
 Hi 👋, I'm Jorge</h1>
 <h3 align="left">I am a recent graduate with a degree in computer engineering from Cal Poly Pomona, passionate about learning and using new technology to create cool stuff. I am currently really into working on both embedded systems as well as web and cloud development. Here you can find some of my school projects, including my Senior Design Project, among other things I set myself to create. Enjoy!</h3>
 
