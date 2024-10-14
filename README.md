@@ -1,6 +1,6 @@
 <img src="https://pjalv.com/file/headshot_crop.jpg" alt="Jorge's Headshot" align="left" width="150" height="150" />
-<h3 align="left">👋 I'm Jorge, an embedded systems engineer passionate about designing efficient hardware-software integrations. I thrive in bridging the gap between hardware and software, from IoT device control systems to low-level programming and real-time performance optimization.</h3> <h4 align="left">I love building solutions that connect the physical and digital worlds, driving innovation and efficiency in embedded systems. Please visit my website to read more about my work, insights, and experiences in tech.</h4>
-Please visit my website to read more about myself, my insights and experiences in tech.</h3>
+<h3 align="left">👋 I'm Jorge, an embedded systems engineer passionate about designing efficient hardware-software integrations. I thrive in bridging the gap between hardware and software, from IoT device control systems to low-level programming and real-time performance optimization.</h3> <h4 align="left">I'm passionate about building solutions that connect the physical and digital worlds, driving innovation and efficiency in embedded systems. </h4>
+Visit my website to learn more about my work, insights, and experiences in tech.
 
 
 ## Portfolio Website: [pjalv.com](https://pjalv.com)
@@ -13,28 +13,24 @@ Please visit my website to read more about myself, my insights and experiences i
 
 - **Overview:** Developed an IoT system that enables wireless control and monitoring of various devices, showcasing seamless integration between embedded systems and cloud services.
 - **Tech Stack:** FreeRTOS, ESP32, MQTT, WebSockets, Go, Node.js, and custom hardware.
-- **Highlights:** Designed and implemented efficient real-time device control, improving system responsiveness by 30%. Worked 1-on-1 with engineer in deploying and optimizing end to end performance.
-- **Outcome:** The project was successfully presented at the Senior Symposium showcase.
+- **Highlights:** Designed and implemented efficient real-time device control. Worked 1-on-1 with engineer in deploying and optimizing end to end performance.
 
 ### Chipotle Bot: NBA Finals 2023 & 2024
 
 - **Overview:** Developed two iterations of a bot to automate the retrieval and sharing of promotional SMS codes from Chipotle during the NBA Finals of 2023 and 2024.
 
-    - **NBA Finals 2023 Blog Post:** [Read More](https://example.com/nba-finals-2023)
+    - **NBA Finals 2023 Blog Post:** [Read More](https://pjalv.com/blog/2023-nba-finals-chipotle-sms-bot)
     - Built a bot to monitor Chipotle’s Twitter account and automatically parse tweets for SMS codes shared during the NBA Finals.
         - **Tech Stack:** Node.js, Twitter API, Discord.js.
-        - **Outcome:** Automated code extraction and delivery through Discord, reducing time to claim codes drastically.
 
-    - **NBA Finals 2024 Blog Post:** [Read More](https://example.com/nba-finals-2024)
-    - Adapted the bot's functionality for the 2024 NBA Finals with enhanced code parsing, faster image recognition, and pslit processes between two different programs.
+    - **NBA Finals 2024 Blog Post:** [Read More](https://pjalv.com/blog/2024-nba-finals-chipotle-bot)
+    - Adapted the bot's functionality for the 2024 NBA Finals with enhanced code parsing, faster image recognition, and split processes between two different programs.
         - **Tech Stack:** Go (Webscraping), Bun.js , OpenAI Vision API, Unix Sockets
-        - **Outcome:** Improved accuracy in code detection from both text and images, delivering a more robust and scalable solution.
 
 ### Portfolio Website
 
 - **Overview:** Built my personal portfolio website using Go for server-side rendering, templating, and dynamic content generation.
 - **Tech Stack:** Go, templ, htmx.
-- **Outcome:** The website serves as a hub for my blog, projects, and professional journey, with a custom CMS for easy content management.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjalv&label=Profile%20views&color=0e75b6&style=flat" alt="pjalv" /> </p> -->
 
 
